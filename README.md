@@ -98,8 +98,8 @@ Harf Notu: E (GECTİ)
     print(df)
 
 
-![enter image description here](https://www.hizliresim.com/himpub5)
+![enter image description here](https://github.com/tubabalkan/GlobalAIHub-Homework/blob/main/ckt1.png)
 ## Excel Çıktısı
-![enter image description here](https://www.hizliresim.com/1fk27dz)
+![enter image description here](https://github.com/tubabalkan/GlobalAIHub-Homework/blob/main/%C3%96rnek-%C3%87%C4%B1kt%C4%B1.png)
 
 
