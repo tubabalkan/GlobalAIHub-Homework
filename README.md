@@ -55,7 +55,9 @@ Bu projede bir öğrenci not sistemi oluşturacaksınız. Sizden istenilenler:
     
     print("Lutfen Gecerli Bir Deger Giriniz!!!!!")
 Matematik dersinde geçip kalan öğrenci tablosu
+
 Ortalama :46.0 
+
 Harf Notu: E (GECTİ)
 
 
